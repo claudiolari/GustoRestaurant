@@ -418,6 +418,40 @@ footer {
     }
 
   }
+
+/* Medium devices (tablets) */
+  @media (max-width: 1024px) {
+    .nav{
+        margin-bottom: 15px;
+    }
+    .menu-table {
+      width: 90%;
+    }
+  
+    .img {
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+  
+    .img img {
+      width: 300px;
+      height: 300px;
+    }
+  
+    .restaurant,
+    .img-chef {
+      width: 50%;
+      height: auto;
+    }
+  
+    .titles h1 {
+      font-size: 3rem;
+    }
+  
+    .titles h2 {
+      font-size: 1.8rem;
+    }
+  }
   @media screen and (min-width: 768px) and (max-width: 1309px) {
     .img {
       flex-direction: row;
@@ -465,39 +499,7 @@ footer {
       font-size: 1rem;
     }
   }
-  /* Medium devices (tablets) */
-  @media (max-width: 1024px) {
-    .nav{
-        margin-bottom: 15px;
-    }
-    .menu-table {
-      width: 90%;
-    }
   
-    .img {
-      flex-wrap: wrap;
-      gap: 20px;
-    }
-  
-    .img img {
-      width: 300px;
-      height: 300px;
-    }
-  
-    .restaurant,
-    .img-chef {
-      width: 50%;
-      height: auto;
-    }
-  
-    .titles h1 {
-      font-size: 3rem;
-    }
-  
-    .titles h2 {
-      font-size: 1.8rem;
-    }
-  }
   
   @media screen and (min-width: 1310px) {
   .about,
