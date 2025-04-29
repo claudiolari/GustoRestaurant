@@ -255,6 +255,7 @@ hr {
 footer {
     background-color: #f5f5f5;
     padding: 80px 20px;
+    height:600px;
 }
 
 .footer-container {
@@ -358,7 +359,9 @@ footer {
     .about-chef {
         padding: 40px 20px;
     }
-    
+    footer{
+        height:600px;
+    }
     .footer-card {
         min-width: 100%;
         margin-bottom: 20px;
