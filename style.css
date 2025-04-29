@@ -501,19 +501,30 @@ footer {
   }
   
   
-  @media screen and (min-width: 1310px) {
-  .about,
-  .chef {
+/* === LAYOUT RESPONSIVO PER SCHERMI GRANDI === */
+@media screen and (min-width: 1310px) {
+  .about, .chef {
+    display: flex;
     flex-direction: row;
-    flex-wrap: nowrap;
+    align-items: stretch;
   }
 
-  .about-chef,
-  .img-chef {
+  .restaurant, .img-chef {
     width: 50%;
     height: auto;
+    background-size: cover;
+    background-position: center;
+  }
+
+  .about-restaurant, .about-chef {
+    width: 50%;
+    padding: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
 }
+
   
 
 
