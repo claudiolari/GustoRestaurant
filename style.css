@@ -407,6 +407,9 @@ footer {
         padding:0;
         box-sizing:border-box;
     }
+    .chef{
+        padding:0;
+    }
     .special-item img {
         width: 350px;
         height: 350px;
