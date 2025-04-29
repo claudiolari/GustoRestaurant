@@ -443,7 +443,7 @@ footer {
   
     .restaurant,
     .img-chef {
-      height: 400px;
+      height: auto;
     }
   
     .titles h1 {
