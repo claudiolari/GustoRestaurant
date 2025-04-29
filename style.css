@@ -302,6 +302,12 @@ footer {
 /* ===== RESPONSIVE DESIGN ===== */
 /* Small devices (phones) */
 @media (max-width: 768px) {
+     *{
+        margin:0;
+
+        padding:0;
+        box-sizing:border-box;
+    }
     .titles h1 {
         font-size: 3.5rem;
     }
@@ -354,6 +360,12 @@ footer {
 
 /* Medium devices (tablets) */
 @media (min-width: 769px) and (max-width: 1024px) {
+     *{
+        margin:0;
+
+        padding:0;
+        box-sizing:border-box;
+    }
     .titles h1 {
         font-size: 4rem;
     }
@@ -372,7 +384,7 @@ footer {
     
     .restaurant,
     .img-chef {
-        min-height: 500px;
+        min-height: 1000px;
     }
     
     .about-restaurant,
@@ -383,6 +395,12 @@ footer {
 
 /* Large devices (desktops) */
 @media (min-width: 1025px) {
+    *{
+        margin:0;
+
+        padding:0;
+        box-sizing:border-box;
+    }
     .special-item img {
         width: 350px;
         height: 350px;
@@ -390,6 +408,6 @@ footer {
     
     .restaurant,
     .img-chef {
-        min-height: 900px;
+        min-height: 1000px;
     }
 }
