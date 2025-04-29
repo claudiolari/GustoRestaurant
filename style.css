@@ -223,7 +223,7 @@ hr {
 
 .img-chef {
     width: 50%;
-    min-height: 500px; /* o 600px a seconda del tuo layout */
+     /* o 600px a seconda del tuo layout */
     background: url("chef.jpg") center/cover no-repeat;
 }
 
