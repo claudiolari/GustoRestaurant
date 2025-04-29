@@ -194,7 +194,7 @@ hr {
 .about-restaurant {
     width: 50%;
     background-color: rgb(232, 224, 212);
-    padding: 60px;
+    
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -221,7 +221,7 @@ hr {
 .about-chef {
     width: 50%;
     background-color: #f9f9f9;
-    padding: 60px;
+    
     display: flex;
     flex-direction: column;
     justify-content: center;
