@@ -260,11 +260,10 @@ footer {
       display: block;
       margin: 10px 0;
     }
-  .titles{
-    margin-top:30px;
-  }
+  
     .titles h1 {
       font-size: 2.5rem;
+        margin-top:30px
     }
   
     .titles h2 {
