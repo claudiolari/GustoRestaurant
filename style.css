@@ -218,7 +218,7 @@ hr {
     flex-wrap: wrap;
     width: 100%;
     padding:0;
-    height:1000px
+    height:1500px
 }
 
 .img-chef {
@@ -409,7 +409,7 @@ footer {
         box-sizing:border-box;
     }
     .chef{
-        height:900px;
+        height:1500px;
         padding:0;
     }
     .special-item img {
