@@ -185,7 +185,7 @@ hr{
 .restaurant{
     width:50%;
     height:600px;
-    background:url("img/restaurant.jpg");
+    background:url("restaurant.jpg");
     
   background-repeat: no-repeat;
   background-position: center;
@@ -242,7 +242,7 @@ margin-top:50px;
 .img-chef{
     width:50%;
     height:900px;
-    background:url("img/chef.jpg");
+    background:url("chef.jpg");
     
   background-repeat: no-repeat;
   background-position: center;
@@ -306,7 +306,7 @@ footer {
         rgba(255, 165, 0, 0.5), 
         rgba(255, 165, 0, 0.5)
       ),
-      url('img/immaginesitosfondo.jpg');
+      url('immaginesitosfondo.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -454,10 +454,6 @@ footer {
       font-size: 1.8rem;
     }
   }
-  
-
-
-
   
 
 
