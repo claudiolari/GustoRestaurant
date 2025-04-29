@@ -482,6 +482,7 @@ footer {
   
     .restaurant,
     .img-chef {
+      width: 50%;
       height: auto;
     }
   
