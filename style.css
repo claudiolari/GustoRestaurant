@@ -216,8 +216,14 @@ hr {
     display: flex;
     flex-wrap: wrap;
     width: 100%;
-    height:100%;
 }
+
+.img-chef {
+    width: 50%;
+    min-height: 500px; /* o 600px a seconda del tuo layout */
+    background: url("chef.jpg") center/cover no-repeat;
+}
+
 
 .about-chef {
     width: 50%;
@@ -240,11 +246,7 @@ hr {
     text-align: justify;
 }
 
-.img-chef {
-    width: 50%;
-    height: 100%;
-    background: url("chef.jpg") center/cover no-repeat;
-}
+
 
 /* ===== FOOTER ===== */
 footer {
