@@ -499,7 +499,19 @@ footer {
     }
   }
   
-  
+  @media screen and (min-width: 1310px) {
+  .about,
+  .chef {
+    flex-direction: row;
+    flex-wrap: nowrap;
+  }
+
+  .about-chef,
+  .img-chef {
+    width: 50%;
+    height: auto;
+  }
+}
   
 
 
