@@ -135,7 +135,7 @@ hr{
 .restaurant{
     width:50%;
     height:600px;
-    background:url("img/restaurant.jpg");
+    background:url("restaurant.jpg");
     
   background-repeat: no-repeat;
   background-position: center;
@@ -192,7 +192,7 @@ margin-top:50px;
 .img-chef{
     width:50%;
     height:900px;
-    background:url("img/chef.jpg");
+    background:url("chef.jpg");
     
   background-repeat: no-repeat;
   background-position: center;
