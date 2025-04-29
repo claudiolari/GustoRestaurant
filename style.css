@@ -13,7 +13,7 @@ body {
       rgba(255, 165, 0, 0.5), 
       rgba(255, 165, 0, 0.5)
     ),
-    url('img/immaginesitosfondo.jpg');
+    url('immaginesitosfondo.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
